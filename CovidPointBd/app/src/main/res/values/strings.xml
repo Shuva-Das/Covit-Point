@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Covid Tracker</string>
+
+    //define the fonts as string for further use
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular1" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <string name="header" tools:ignore="ReferenceType">@font/odibeesansregular</string>
+
+</resources>
