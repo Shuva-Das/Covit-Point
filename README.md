@@ -75,18 +75,18 @@ We use world-meter to get the data. We don’t use any custom database. By retro
 ---
 
 <b>System Feature 1</b><br>
-<img src="./images/1.JPG" width="720" title="System Feature 1"/>
+<img src="./images/1.jpg" width="720" title="System Feature 1"/>
 <b>System Feature 2</b><br>
-<img src="./images/2.JPG" width="720" title="System Feature 2"/>
+<img src="./images/2.jpg" width="720" title="System Feature 2"/>
 <b>System Feature 3</b><br>
-<img src="./images/3.JPG" width="720" title="System Feature 3"/>
+<img src="./images/3.jpg" width="720" title="System Feature 3"/>
 
 <br/>
 
 `#Use Case Diagram : `
 ---
 ---
-<img src="./images/UseCase.PNG" width="720" title="Use Case Diagram"/>
+<img src="./images/useCase.PNG" width="720" title="Use Case Diagram"/>
 
 <br/>
 
